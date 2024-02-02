@@ -9,7 +9,7 @@
 
 Este projeto é material das aulas do DevEmDobro que ensina a como criar uma **Landing Page** utilizando tecnologias como _HTML_, _CSS_ e _JavaScript_.
 
-Acesso ao projeto em https://cayotarcisio.github.io/projectMario/
+Acesso ao projeto em https://cayotarcisio.github.io/projectMarioWorld/
 
 ## 🚀 Tecnologias
 
