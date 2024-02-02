@@ -233,3 +233,15 @@ body {
 }
 
 
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #fa1b1bec;
+    padding: 10px;
+
+}
+
+.footer .action{
+    margin-right: 20px;
+    margin-left: 20px;
+}
