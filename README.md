@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./src/imagens/logo-mario.svg" width="250px" />
+  <img src="./src/imagens/logo-mario.svg" width="200px" />
 </p>
 
 <p align="center">
-  <img src="./src/imagens/landingPage.JPG" width="350px" />
+  <img src="./src/imagens/landingPage.JPG" width="1000px" />
 
 ## 💻 Projeto
 
